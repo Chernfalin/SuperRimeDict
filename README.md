@@ -1,5 +1,5 @@
 # SuperRimeDict
-![](preview (1).jpg)
+![Pv](./preview (1).jpg)
 #### SuperRime拓展词库 for Win10拼音版(600万词-含BetterRime)
 
 -全新制作的词库，词条主要从各种NLP语料库整理得到，而语料库则来源于巨量的网页、新闻、小说、维基/百度百科等，故比较贴近日常生活。<br>
